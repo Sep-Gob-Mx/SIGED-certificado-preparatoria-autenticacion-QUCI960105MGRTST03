@@ -1,0 +1,2 @@
+SIGED-certificado-preparatoria-autenticacion-QUCI960105MGRTST03
+QUCI960105MGRTST03
